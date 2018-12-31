@@ -1,0 +1,10 @@
+F:\Projects\Id4\id4\Cache\bin\Debug\netcoreapp2.2\Cache.deps.json
+F:\Projects\Id4\id4\Cache\bin\Debug\netcoreapp2.2\Cache.runtimeconfig.json
+F:\Projects\Id4\id4\Cache\bin\Debug\netcoreapp2.2\Cache.runtimeconfig.dev.json
+F:\Projects\Id4\id4\Cache\bin\Debug\netcoreapp2.2\Cache.dll
+F:\Projects\Id4\id4\Cache\bin\Debug\netcoreapp2.2\Cache.pdb
+F:\Projects\Id4\id4\Cache\obj\Debug\netcoreapp2.2\Cache.csproj.CoreCompileInputs.cache
+F:\Projects\Id4\id4\Cache\obj\Debug\netcoreapp2.2\Cache.AssemblyInfoInputs.cache
+F:\Projects\Id4\id4\Cache\obj\Debug\netcoreapp2.2\Cache.AssemblyInfo.cs
+F:\Projects\Id4\id4\Cache\obj\Debug\netcoreapp2.2\Cache.dll
+F:\Projects\Id4\id4\Cache\obj\Debug\netcoreapp2.2\Cache.pdb
